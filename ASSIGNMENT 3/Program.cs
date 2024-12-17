@@ -63,7 +63,7 @@
             #endregion
 
 
-            //#region Q4
+            #region Q4
             //Console.WriteLine( "Q4");
             //Console.WriteLine( "enter the number");
             //int.TryParse(Console.ReadLine(), out int M);
@@ -75,7 +75,7 @@
             //{
             //    Console.WriteLine( "odd");
             //}
-            //#endregion
+            #endregion
 
 
 
